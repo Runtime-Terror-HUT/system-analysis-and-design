@@ -1,0 +1,4 @@
+aparat : https://aparat.com/v/YnvDO
+github : 
+document : https://docs.google.com/document/d/1K_WaC6lOLXVW3vlghL3Hufd0tdq1V0aM2NYjMqUcgiw/edit
+link jira : https://runtimeterrror.atlassian.net/jira/software/projects/RT/boards/1
